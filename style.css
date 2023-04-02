@@ -1,0 +1,16 @@
+body {
+    background-color: cornsilk;
+}
+
+h3,h2,h1{
+    color: goldenrod;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    width: 5%;
+}
